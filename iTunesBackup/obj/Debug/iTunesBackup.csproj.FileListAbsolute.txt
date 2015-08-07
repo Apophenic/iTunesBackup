@@ -1,9 +1,0 @@
-C:\Users\Justin\workspace\(Visual Studio)\iTunesBackup\iTunesBackup\bin\Debug\iTunesBackup.exe.config
-C:\Users\Justin\workspace\(Visual Studio)\iTunesBackup\iTunesBackup\bin\Debug\iTunesBackup.exe
-C:\Users\Justin\workspace\(Visual Studio)\iTunesBackup\iTunesBackup\bin\Debug\iTunesBackup.pdb
-C:\Users\Justin\workspace\(Visual Studio)\iTunesBackup\iTunesBackup\obj\Debug\iTunesBackup.exe
-C:\Users\Justin\workspace\(Visual Studio)\iTunesBackup\iTunesBackup\obj\Debug\iTunesBackup.pdb
-C:\Users\Justin\workspace\(Visual Studio)\iTunesBackup\iTunesBackup\obj\Debug\iTunesBackup.csprojResolveAssemblyReference.cache
-C:\Users\Justin\Code Projects\iTunesBackup\iTunesBackup\bin\Debug\iTunesBackup.exe.config
-C:\Users\Justin\Code Projects\iTunesBackup\iTunesBackup\obj\Debug\iTunesBackup.exe
-C:\Users\Justin\Code Projects\iTunesBackup\iTunesBackup\obj\Debug\iTunesBackup.pdb
